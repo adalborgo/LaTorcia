@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LaTorcia</string>
+	<string name="on">ACCENDI</string>
+    <string name="off">SPEGNI</string>
+</resources>
